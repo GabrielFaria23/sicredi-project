@@ -2,7 +2,7 @@
 
 Projeto para receber via linha de comando um arquivo csv e processar uma simulação de seu envio para o Banco Central e receber retorno do mesmo.
 
-#Execução
+# Execução
 
 Inicialmente para seu funcionamento em standalone é preciso fazer a geração do jar. Para isso é necessário ter o maven instalado na maquina.
 
