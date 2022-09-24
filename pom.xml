@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sicredi</groupId>
-	<artifactId>project</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>project</name>
+	<artifactId>SincronizacaoReceita</artifactId>
+	<version>1</version>
+	<name>SincronizacaoReceita</name>
 	<description>Sicredi Project</description>
 	<properties>
 		<java.version>17</java.version>
@@ -27,6 +27,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+		<dependency>
+			<groupId>com.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>5.7.0</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
