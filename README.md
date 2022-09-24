@@ -1,4 +1,4 @@
-# sicredi-project
+# Projeto Sicredi
 
 Projeto para receber via linha de comando um arquivo csv e processar uma simulação de seu envio para o Banco Central e receber retorno do mesmo.
 
